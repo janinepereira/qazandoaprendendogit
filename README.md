@@ -22,6 +22,4 @@ A abordagem orientada a dados (*Data-Driven*) demonstra uma preocupação com a 
 
 
 ##👩‍💻 Autora
-
-
 Janine Almeida Profissional de Quality Assurance (QA) focada em automação de testes. Janine Almeida, casada, mãe de pet e apaixonada por viagens.
