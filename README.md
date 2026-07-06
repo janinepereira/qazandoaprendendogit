@@ -14,6 +14,12 @@ Este projeto de automação de testes foi desenvolvido para otimizar e garantir 
 A abordagem orientada a dados (*Data-Driven*) demonstra uma preocupação com a escalabilidade do projeto. Através da separação entre a lógica de teste e a massa de dados, é possível adicionar dezenas de novos cenários de simulação apenas atualizando a folha de cálculo, sem necessidade de alterar o código principal.
 
 ## 🚀 Como Executar o Projeto Localmente
+
+
+https://github.com/user-attachments/assets/d89429a7-88d1-47ff-ad2e-6643662940a0
+
+
+
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/janinepereira/qazandoaprendendogit.git](https://github.com/janinepereira/qazandoaprendendogit.git)
