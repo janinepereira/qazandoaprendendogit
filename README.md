@@ -10,6 +10,16 @@ Este projeto de automação de testes foi desenvolvido para otimizar e garantir 
 * **Integração com Excel:** Estratégia de *Data-Driven Testing* para alimentar os testes com diferentes conjuntos de dados a partir de folhas de cálculo.
 * **GitHub Actions:** Configuração de Integração Contínua (CI) para execução automatizada dos testes a cada nova alteração no código.
 
+🧠 **Hard Skills**
+---
+
+### 💻 Automação E2E & Web
+<p align="left">
+  <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-Robot%20Framework-%23000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework" />
+</p>
+
+
 ## 🏗️ Estrutura e Estratégia
 A abordagem orientada a dados (*Data-Driven*) demonstra uma preocupação com a escalabilidade do projeto. Através da separação entre a lógica de teste e a massa de dados, é possível adicionar dezenas de novos cenários de simulação apenas atualizando a folha de cálculo, sem necessidade de alterar o código principal.
 
